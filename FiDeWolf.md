@@ -1,0 +1,3 @@
+- I’m @FiDeWolf
+- I’m interested in videogames and programation 
+- I’m currently learning python
